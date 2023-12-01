@@ -1,6 +1,6 @@
 <template>
     <div class="w-full lg:w-full mt-5">
-        <div class="flex gap-5 justify-center lg:justify-start">
+        <div class="flex gap-2 flex-col p-4 lg:p-0 sm:gap-5 lg:gap-5 md:gap-5 justify-center sm:flex-row md:flex-row lg:justify-start">
             <div v-for="file in data" class="border p-4 border-white flex shadow-xl flex-col gap-4 rounded-xl bg-white">
                 <div class="text-4xl text-black">
                     <font-awesome-icon icon="fa-solid fa-diagram-project" />
