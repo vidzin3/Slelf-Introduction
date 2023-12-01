@@ -7,9 +7,9 @@
                 </div>
                 <div class="flex flex-col lg:p-0 p-4 gap-4 lg:gap-0 lg:w-1/2">
                     <div class="w-full text-center lg:text-start lg:mt-5">
-                        <p class="font-mono text-xl mb-4">HELLO EVERYBODY,</p>
+                        <p class="font-mono text-xl mb-4 text-black">HELLO EVERYBODY,</p>
                         <h1 class="text-4xl lg:text-5xl text-black font-sans font-bold my-5">I AM KOUCH DAVID</h1>
-                        <p class="text-xl font-bold mb-5">JUNIOR WEB DEVELOPER</p>
+                        <p class="text-xl font-bold mb-5 text-black">JUNIOR WEB DEVELOPER</p>
                         <p class="text-xl font-sans text-gray-400">You will begin to realise why this exercise is called Nothing is impossible. ...</p>
                     </div>
                     <div class="flex justify-center lg:justify-start items-center h-full gap-4">
