@@ -1,0 +1,32 @@
+[
+    
+    {
+        "show" :[
+            {
+                "id": 1,
+                "Samllproject": 100,
+                "bigproject": 15
+            }
+        ],
+        "project":[
+            {
+                "id": 1,
+                "link":"https://kofi-frontend-project.vercel.app/",
+                "text": "KOFI Project",
+                "img": "https://shop.kofi.com.kh/_nuxt/img/logo.638b7a5.svg"
+            },
+            {
+                "id": 2,
+                "link":"https://history-questions-quiz.vercel.app/",
+                "text": "History Quiz Project",
+                "img": "https://www.cheapflights.co.za/news/wp-content/uploads/sites/140/2016/11/quiz-guess-the-country-from-its-outline-01.jpg"
+            },
+            {
+                "id": 3,
+                "link":"https://project-frontend-dusky.vercel.app/",
+                "text": "Product Cart Project",
+                "img": "https://static.wixstatic.com/media/84770f_93b300330b3742f2b1948ef292a91f27~mv2_d_1920_1279_s_2.png/v1/fill/w_1899,h_1024,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/84770f_93b300330b3742f2b1948ef292a91f27~mv2_d_1920_1279_s_2.png"
+            }
+        ]
+    }
+]
