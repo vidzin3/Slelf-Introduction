@@ -13,15 +13,15 @@
                         <p class="text-xl font-sans text-gray-400">You will begin to realise why this exercise is called Nothing is impossible. ...</p>
                     </div>
                     <div class="flex justify-center lg:justify-start items-center h-full gap-4">
-                        <div class="w-10 h-10 text-center flex items-center justify-center rounded-lg bg-gray-100 cursor-pointer shadow-lg hover:bg-blue-400 hover:text-white">
+                        <div class="w-10 h-10 text-center flex items-center justify-center rounded-lg text-black bg-gray-100 cursor-pointer shadow-lg hover:bg-blue-400 hover:text-white">
                             <font-awesome-icon icon="fa-brands fa-facebook-f" />
                         </div>
-                        <div class="w-10 h-10 text-center flex items-center justify-center rounded-lg bg-gray-100 cursor-pointer shadow-lg hover:bg-white hover:text-blue-600">
+                        <div class="w-10 h-10 text-center flex items-center justify-center rounded-lg text-black bg-gray-100 cursor-pointer shadow-lg hover:bg-white hover:text-blue-600">
                             <a href="">
                                 <font-awesome-icon icon="fa-brands fa-twitter" />
                             </a>
                         </div>
-                        <div class="w-10 h-10 text-center flex items-center justify-center rounded-lg bg-gray-100 cursor-pointer shadow-lg hover:bg-black hover:text-white">
+                        <div class="w-10 h-10 text-center flex items-center justify-center rounded-lg text-black bg-gray-100 cursor-pointer shadow-lg hover:bg-black hover:text-white">
                             <a href="https://github.com/vidzin3">
                                 <font-awesome-icon icon="fa-brands fa-github" />
                             </a>
