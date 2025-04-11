@@ -32,7 +32,7 @@
                 <h1 class="text-white font-thin text-lg">Host Project</h1>
             </div>      
         </div>
-        <div class="w-full lg:w-full mt-5">
+        <!-- <div class="w-full lg:w-full mt-5">
             <div>
                 <div v-for="text in file" class="grid grid-cols-1 lg:grid-cols-3 gap-10 lg:gap-5">
                     <div v-for="texts in text" :key="texts.id">
@@ -45,7 +45,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </template>
 

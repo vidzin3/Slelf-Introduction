@@ -1,6 +1,7 @@
 <template>
     <div class="w-full lg:w-full mt-6">
         <div class="w-full flex justify-center gap-10">
+            <button class="p-3 rounded-lg font-sans text-gray-500 font-bold" :class="{ 'active:text-white bg-white': $route.path.includes('/experience/work') }" @click="router.push(`/experience/${work}`)">My Experiences Work</button>
             <button class="p-3 rounded-lg font-sans text-gray-500 font-bold" :class="{ 'active:text-white bg-white': $route.path.includes('/experience/exp') }" @click="router.push(`/experience/${exp}`)">My Experiences</button>
             <button class="p-3 rounded-lg font-sans text-gray-500 font-bold" :class="{ 'active:text-white bg-white': $route.path.includes('/experience/edu') }" @click="router.push(`/experience/${edu}`)">My Education</button>
         </div>
@@ -68,6 +69,7 @@ import {RouterView,useRouter} from 'vue-router'
                 tabs : false,
                 exp: "exp",
                 edu: "edu",
+                work: "work",
                 textinner:[
                     {
                         id:1,

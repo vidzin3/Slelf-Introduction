@@ -35,8 +35,9 @@
                         join:"2010 to 2016",
                         text:[
                             "Primary School",
-                            "រៀនថ្នាក់​ទី ១ ដល់​ ទី​ ៦​"
-                        ]
+                            "Grade 1 - 6​"
+                        ],
+                        icon:[]
                     },
                     {
                         id:2,
@@ -44,15 +45,17 @@
                         text:[
                             "High School",
                             "Grade 7 - 12, Pass BacII in 2022"
-                        ]
+                        ],
+                        icon:[]
                     },
                     {
                         id:3,
                         join:"2022 to present",
                         text:[
                             "University",
-                            "NUBB / Year 2"
-                        ]
+                            "NUBB / Year 3, Semester 2"
+                        ],
+                        icon:[]
                     },
                 ]
             }

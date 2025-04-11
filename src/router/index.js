@@ -31,6 +31,10 @@ const router = createRouter({
                     path: '/experience/edu',
                     component:edu
                 },
+                {
+                    path: '/experience/work',
+                    component:() => import("@/components/work.vue")
+                },
             ]
         },
         {

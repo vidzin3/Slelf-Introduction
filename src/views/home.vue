@@ -11,6 +11,7 @@
                         <h1 class="text-4xl lg:text-5xl text-black font-sans font-bold my-5">I AM KOUCH DAVID</h1>
                         <p class="text-xl font-bold mb-5 text-black">JUNIOR WEB DEVELOPER</p>
                         <p class="text-xl font-sans text-gray-400">You will begin to realise why this exercise is called Nothing is impossible. ...</p>
+                        <p class="text-xl font-sans text-gray-400">work in Ministry of Econamic and financial Pusat (currently worked)</p>
                     </div>
                     <div class="flex justify-center lg:justify-start items-center h-full gap-4">
                         <div class="w-10 h-10 text-center flex items-center justify-center rounded-lg text-black bg-gray-100 cursor-pointer shadow-lg hover:bg-blue-400 hover:text-white">
